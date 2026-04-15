@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:massive.com)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:alpaca.markets)",
+      "WebFetch(domain:tradier.com)",
+      "WebFetch(domain:docs.tradier.com)",
+      "WebFetch(domain:www.barchart.com)",
+      "WebFetch(domain:docs.alpaca.markets)"
+    ]
+  }
+}
